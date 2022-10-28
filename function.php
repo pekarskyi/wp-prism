@@ -1,3 +1,4 @@
+<?php
 //Prism
 // Function to add prism.css and prism.js to the site
 function add_prism() {
