@@ -28,3 +28,5 @@ get_field('code_enable')
 Условия отображения: = запись<br>
 
 Если в записи присутствует сниппет кода, то тогда не забываем отмечать чекбокс.
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
